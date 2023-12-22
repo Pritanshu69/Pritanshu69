@@ -7,3 +7,10 @@
 <br/>
 
 <div align="center">
+ 🔭 I’m currently working on **A frontend projet**
+ 
+ 🌱 I’m currently learning **Docker, linux, Reactjs**
+
+ ⚡ Fun fact **There is no function without fun**
+
+ 
