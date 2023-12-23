@@ -8,11 +8,11 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **A frontend projet**
- 
- 🌱 I’m currently learning **Docker, linux, Reactjs**
+🔭 I’m currently working on **A frontend projet**
 
- ⚡ Fun fact **There is no function without fun**
+🌱 I’m currently learning **Docker, linux, Reactjs**
+
+⚡ Fun fact **There is no function without fun**
 
 </div>
 
@@ -25,3 +25,13 @@
   </a>
   </div>
 
+   <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,java,mysql,docker" /><br>
+</div>
+<br/>
+<hr/>
