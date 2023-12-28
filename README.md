@@ -40,17 +40,18 @@
 
   # 📊 GitHub Stats:
   
-  </div>
-
-![](https://github-readme-stats.vercel.app/api?username=Pritanshu69&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-<p align="left">
+  <p align="left">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pritanshu69&theme=react"/>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
   </a>
 </p>
+
+  </div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Pritanshu69&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritanshu69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
