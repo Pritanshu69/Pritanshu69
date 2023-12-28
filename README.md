@@ -40,7 +40,7 @@
 
   # 📊 GitHub Stats:
   
-  <p align="left">
+  <p align="center">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pritanshu69&theme=react"/>
