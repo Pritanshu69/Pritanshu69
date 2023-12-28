@@ -77,7 +77,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanka001tech&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritanshu69&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
   
 <div align="center">
