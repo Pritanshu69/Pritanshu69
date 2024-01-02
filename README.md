@@ -10,9 +10,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on **A frontend projet**
+🔭 I’m currently working on **A frontend project**
 
-🌱 I’m currently learning **Docker, linux, Reactjs**
+🌱 I’m currently learning **Typescrip, linux, Reactjs**
 
 ⚡ Fun fact **There is no function without fun**
 
