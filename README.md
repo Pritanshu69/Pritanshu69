@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on **A frontend project**
 
-🌱 I’m currently learning **Typescript, linux, Reactjs**
+🌱 I’m currently learning **Typescript  , linux, Reactjs**
 
 ⚡ Fun fact **There is no function without fun**
 
@@ -79,6 +79,8 @@
   <tr align="center">
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritanshu69&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
+
+   <img src="https://raw.githubusercontent.com/Pritanshu69/Pritanshu69/output/snake.svg" alt="Snake animation" />
   
 <div align="center">
 
