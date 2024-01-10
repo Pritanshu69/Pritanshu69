@@ -45,7 +45,8 @@
   <p align="center">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pritanshu69&theme=react"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritanshu69&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pritanshu69&theme=react"/> -->
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
   </a>
 </p>
