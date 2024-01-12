@@ -37,30 +37,6 @@
 </div>
 <br/>
 <hr/>
-
-<!-- <div align="center">
-
-  # 📊 GitHub Stats:
-  
-  <p align="center">
-  <a>
-    <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritanshu69&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pritanshu69&theme=react"/> -->
-  <!-- </a>
-</p>
-
-</div>
-
-  </div align="center"> --> -->
-
-<!-- <p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Pritanshu69&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-</p>
-
-<br/> -->
  <p align="center">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
@@ -79,11 +55,6 @@
   <tr align="center">
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritanshu69&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
-<<<<<<< HEAD
-
-=======
->>>>>>> a086bc5dc44e9a65db3b06e7eea9006a651ada3f
-  
 <div align="center">
 
 ## 🏆 GitHub Trophies
