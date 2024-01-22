@@ -1,4 +1,4 @@
-![picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2Fdocs%2Fapi%2F&psig=AOvVaw0j5eXWz-1yn6tvSip_ocrB&ust=1706042776610000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIityODu8YMDFQAAAAAdAAAAABBR)
+![image](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pritanshu69.Pritanshu69" />
