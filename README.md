@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on **A frontend project**
 
-🌱 I’m currently learning **Typescript  , linux, Reactjs**
+🌱 I’m currently learning **gsap , linux, Reactjs**
 
 ⚡ Fun fact **There is no function without fun**
 
