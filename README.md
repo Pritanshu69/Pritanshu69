@@ -50,7 +50,7 @@
 <p align="center">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritanshu69&theme=dark&hide_border=false"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
   </a>
 </p>
@@ -74,7 +74,5 @@
 </div>
 
 ![](https://github-profile-trophy.vercel.app/?username=Pritanshu69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritanshu69&langs_count=8)
 
 
