@@ -4,7 +4,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pritanshu69.Pritanshu69" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Coder + Developer👨‍💻;+CS+enthusiast💻💓;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=frontend+developer👨‍💻;+CS+enthusiast💻💓;" />
 </h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
@@ -12,9 +12,9 @@
 
 <div align="center">
 
-<!-- 🔭 I’m currently working on **A frontend project** -->
+🔭 I’m currently working on **A frontend project**
 
-🌱 I’m currently learning **gsap , linux, rust**
+🌱 I’m currently learning **gsap , linux, Solidity**
 
 ⚡ Fun fact **There is no function without fun**
 
