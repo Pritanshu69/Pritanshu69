@@ -50,7 +50,7 @@
 <p align="center">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritanshu69&show_icons=true&theme=tokyonight"/>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
   </a>
 </p>
