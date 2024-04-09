@@ -12,9 +12,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on **A frontend project**
+<!-- 🔭 I’m currently working on **A frontend project** -->
 
-🌱 I’m currently learning **gsap , linux, Solidity**
+🌱 I’m currently learning **gsap , linux, rust**
 
 ⚡ Fun fact **There is no function without fun**
 
