@@ -58,9 +58,7 @@
 <p align="center">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritanshu69)](https://github.com/Pritanshu69/github-readme-stats)
-    
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritanshu69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
   </a>
 </p>
