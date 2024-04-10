@@ -50,7 +50,7 @@
 <p align="center">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
-    <img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=Pritanshu69&theme=tokyonight)](https://git.io/streak-stats)"/>
+    <img align="center" src="https://streak-stats.demolab.com?user=Pritanshu69&theme=tokyonight"/>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
   </a>
 </p>
@@ -81,5 +81,7 @@
 </div>
 
 ![](https://github-profile-trophy.vercel.app/?username=Pritanshu69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pritanshu69&theme=tokyonight)](https://git.io/streak-stats)
 
 
