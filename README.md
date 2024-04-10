@@ -82,6 +82,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Pritanshu69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pritanshu69&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Pritanshu69&theme=tokyonight)](https://git.io/streak-stats) -->
 
 
