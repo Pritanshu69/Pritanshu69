@@ -50,6 +50,14 @@
 <p align="center">
   <a>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
+    
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Pritanshu69&theme=tokyonight)](https://git.io/streak-stats)
+    <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
+  </a>
+</p>
+<p align="center">
+  <a>
+    <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritanshu69&show_icons=true&theme=tokyonight"/>
     <img height="140" width="140" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
   </a>
