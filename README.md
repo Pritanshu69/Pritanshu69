@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on **A frontend project**
 
-🌱 I’m currently learning **linux, rust**
+🌱 I’m currently learning **linux, Go**
 
 ⚡ Fun fact **There is no function without fun**
 
