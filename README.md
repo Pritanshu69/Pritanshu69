@@ -8,7 +8,7 @@
 # 💫 About Me:
 - 🔭 I’m currently learning advanced python <br>
 
-- 👨‍💻 My portfoli:  [https://psamanta.vercel.app/](https://psamanta.vercel.app/)
+- 👨‍💻 My portfolio :  [https://psamanta.vercel.app/](https://psamanta.vercel.app/)
 
 - 📫 How to reach me **samantaprit1924@gmail.com**
 
