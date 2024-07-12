@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **samantaprit1924@gmail.com**
 
-### <img src="https://media0.giphy.com/media/qNHyaJzOmLNwGWk7Zf/source.gif" width="29px">
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pritanshu samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritanshu samanta" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/prituwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prituwu" height="30" width="40" /></a>
@@ -21,6 +21,8 @@
 <a href="https://www.youtube.com/c/noob engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noob engineer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pritanshu19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritanshu19" height="30" width="40" /></a>
 </p>
+
+### <img src="https://media0.giphy.com/media/qNHyaJzOmLNwGWk7Zf/source.gif" width="29px">
 
 <table width="100%">  
 <tr align="center">  
