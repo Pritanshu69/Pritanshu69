@@ -5,7 +5,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Coder+and+Developer👨‍💻;+CS+enthusiast💻💓;" />
 
-## <picture><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhacker-gifs&psig=AOvVaw3ZY6Ohj6EYhA88asroUuAj&ust=1720884373668000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICD9YPooYcDFQAAAAAdAAAAABAh" width = 50px></picture># 💫 About Me:
+# 💫 About Me:
 - 🔭 I’m currently learning advanced python <br>
 
 - 👨‍💻 All of my projects are available at [https://psamanta.vercel.app/](https://psamanta.vercel.app/)
