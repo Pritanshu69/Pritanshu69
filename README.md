@@ -21,9 +21,7 @@
 <a href="https://www.youtube.com/c/noob engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noob engineer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pritanshu19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritanshu19" height="30" width="40" /></a>
 </p>
-
-### <img src="https://media0.giphy.com/media/qNHyaJzOmLNwGWk7Zf/source.gif" width="29px">
-
+<h3 align="left">Tech Stack:</h3>
 <table width="100%">  
 <tr align="center">  
 <td width="545"><strong>LANGUAGES</strong></td>  
