@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **samantaprit1924@gmail.com**
 
-### <img src="https://user-images.githubusercontent.com/62868878/222233706-01fddef5-2562-451e-93a6-71fb0f24aeab.gif" width="29px"> **Tech Stack!** &nbsp;
+### <img src="https://media0.giphy.com/media/qNHyaJzOmLNwGWk7Zf/source.gif" width="29px">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pritanshu samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritanshu samanta" height="30" width="40" /></a>
