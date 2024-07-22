@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Coder+and+Developer👨‍💻;+CS+enthusiast💻💓;" />
 
 # 💫 About Me:
-- 🔭 I’m currently learning advanced python <br>
 
 - 👨‍💻 My portfolio :  [https://psamanta.vercel.app/](https://psamanta.vercel.app/)
 
