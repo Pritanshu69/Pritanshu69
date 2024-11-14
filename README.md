@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-- 👨‍💻 My portfolio :  [https://psamanta.vercel.app/](https://psamanta.vercel.app/)
+- 👨‍💻 My portfolio :  www.pritanshu.xyz
 
 - 📫 How to reach me **samantaprit1924@gmail.com**
 
@@ -66,13 +66,6 @@
 </tr> 
 </table>
 
-# 🔥 My Stats :
-
-<div align="center">
-	
-<img src="https://streak-stats.demolab.com?user=Pritanshu69&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph" /> 
-
-</div>
 
 
 
