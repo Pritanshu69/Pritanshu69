@@ -12,7 +12,7 @@ Not so sure! Do whatever I want to do, create whatever my evil mind wants to.
 * 🚀  I'm currently working on [The puja explorer](http://puja-explorer.netlify.app/)
 * 🧠  I'm currently learning System Design
 * 👥  I'm looking to collaborate on Any interesting creative website
-* 💬  Ask me about I'm batman but don't tell anyone ok????
+* 💬  I am batman but don't tell anyone ok????
 
 
 
